@@ -1,0 +1,145 @@
+{
+  "profile": {
+    "name": "Manoj L Shetty",
+    "degree": "B.Tech Computer Science & Engineering",
+    "semester": "3rd Semester",
+    "academicYear": "2026-2027",
+    "institution": "REVA University, Bengaluru",
+    "school": "School of Computer Science & Engineering",
+    "course": "Portfolio Building (B25CS0311)",
+    "email": "manojlshetty7@gmail.com",
+    "status": "Actively Solving Algorithmic Problems & Building Software",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "I am a 3rd-semester Computer Science & Engineering undergraduate at REVA University, passionate about programming fundamentals, systems programming in C/C++, algorithmic problem solving across LeetCode & HackerRank, and collaborative software engineering using modern developer toolchains like Git and GitHub.",
+    "shortBio": "3rd Semester B.Tech CSE student at REVA University passionate about Data Structures, Algorithms, Systems Programming, and full-stack software development.",
+    "goals": {
+      "shortTerm": "Solve 150+ problems on LeetCode and HackerRank across strings, two-pointers, arrays, and data structures while maintaining a consistent weekly problem-solving cadence.",
+      "longTerm": "Secure a software engineering internship at a premier technology firm, contribute actively to open-source projects, and architect resilient, high-performance backend systems."
+    },
+    "links": {
+      "github": "https://github.com/manojlshetty7-bit",
+      "leetcode": "https://leetcode.com/u/_manoj_l_/",
+      "hackerrank": "https://www.hackerrank.com/profile/manojlshetty7",
+      "linkedin": "https://www.linkedin.com/in/manoj-l-shetty-00b6bb43a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "portfolioLive": "https://manojlshetty7-bit.github.io"
+    }
+  },
+  "stats": {
+    "leetcodeSolved": "Active Practice",
+    "hackerrankBadge": "Verified Badge",
+    "githubRepos": "5+ Repositories",
+    "courseActivities": "12 Completed"
+  },
+  "activities": [
+    {
+      "id": "activity-1-2",
+      "title": "Activities 1 & 2: VS Code, MinGW GCC & Git Setup",
+      "category": "Environment & Version Control",
+      "badge": "Activities 1 & 2",
+      "description": "Installed and configured Visual Studio Code with the MinGW-w64 GCC compiler. Configured system PATH, mastered terminal compilation commands, initialized Git version control, and created the foundational hello-world-c repository.",
+      "repoUrl": "https://github.com/manojlshetty7-bit/hello-world-c",
+      "technologies": ["C", "GCC", "MinGW-w64", "Git", "VS Code"]
+    },
+    {
+      "id": "activity-3",
+      "title": "Activity 3: Pair Programming with Live Share & GitLens",
+      "category": "Collaboration",
+      "badge": "Activity 3",
+      "description": "Engaged in collaborative pair programming using VS Code Live Share. Practiced real-time co-authoring, shared terminal debugging, and multi-developer line auditing with commit provenance tracking via GitLens.",
+      "repoUrl": "https://github.com/manojlshetty7-bit",
+      "technologies": ["VS Code Live Share", "GitLens", "Git", "Pair Programming"]
+    },
+    {
+      "id": "activity-4",
+      "title": "Activity 4: LeetCode Practice & Progress Tracking",
+      "category": "Data Structures & Algorithms",
+      "badge": "Activity 4",
+      "description": "Engineered a structured repository categorizing competitive coding solutions in C++ into modular directories (Strings, Two-Pointers, Arrays). Documented algorithmic approaches with time and space complexity analysis.",
+      "repoUrl": "https://github.com/manojlshetty7-bit/leetcode-solutions",
+      "technologies": ["C++", "LeetCode", "Two Pointers", "Strings", "DSA"]
+    },
+    {
+      "id": "activity-8",
+      "title": "Activity 8: HackerRank Algorithmic Problem Solving",
+      "category": "Competitive Programming",
+      "badge": "Activity 8",
+      "description": "Solved 5 benchmark HackerRank challenges in C++: Diagonal Difference, Dynamic Array, Time Conversion, Compare the Triplets, and Sparse Arrays. Earned verified problem-solving skill badges with complexity documentation.",
+      "repoUrl": "https://github.com/manojlshetty7-bit/HackerRank-3rdSem-Portfolio",
+      "technologies": ["C++", "HackerRank", "Matrices", "Hash Maps", "Problem Solving"]
+    },
+    {
+      "id": "activity-12",
+      "title": "Activity 12: Building Portfolio Blog by Prompting AI",
+      "category": "Studio Capstone",
+      "badge": "Activity 12",
+      "description": "Constructed this production-ready personal developer portfolio blog with dual Node.js and Python backend, persistent SQLite database, and live GitHub Pages hosting via structured AI prompt engineering and iterative refinements.",
+      "repoUrl": "https://manojlshetty7-bit.github.io",
+      "technologies": ["Full-Stack", "Node.js", "Python", "SQLite", "GitHub Pages"]
+    },
+    {
+      "id": "graphics-c",
+      "title": "Computer Graphics Exploration in C",
+      "category": "Systems & Graphics",
+      "badge": "Practical Project",
+      "description": "Developed low-level computer graphics algorithms and rendering routines in C. Implemented geometric transformations and line drawing algorithms compiled via GCC.",
+      "repoUrl": "https://github.com/manojlshetty7-bit/graphics_edit",
+      "technologies": ["C", "Computer Graphics", "Algorithms", "GCC"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "LeetCode Solutions Repository",
+      "tag": "Data Structures & Algorithms",
+      "description": "Structured collection of optimal algorithmic solutions categorized into Strings and Two-Pointer topics with complexity bounds.",
+      "link": "https://github.com/manojlshetty7-bit/leetcode-solutions",
+      "tech": ["C++", "STL", "DSA", "Problem Solving"]
+    },
+    {
+      "title": "HackerRank 3rd Sem Algorithmic Suite",
+      "tag": "Competitive Programming",
+      "description": "Curated set of 5 benchmark HackerRank problem solutions in C++ covering 2D arrays, hash maps, and time formatting with verification screenshots.",
+      "link": "https://github.com/manojlshetty7-bit/HackerRank-3rdSem-Portfolio",
+      "tech": ["C++", "HackerRank", "Vectors", "Algorithms"]
+    },
+    {
+      "title": "Hello World C & Toolchain Foundation",
+      "tag": "Systems Programming",
+      "description": "Foundational C programming repository demonstrating MinGW GCC compilation, terminal builds, and Git version control setup.",
+      "link": "https://github.com/manojlshetty7-bit/hello-world-c",
+      "tech": ["C", "MinGW-w64", "GCC", "CLI"]
+    },
+    {
+      "title": "Graphics Edit & Rendering in C",
+      "tag": "Computer Graphics",
+      "description": "Computer graphics exploration demonstrating 2D matrix transformations and shape rendering algorithms implemented in standard C.",
+      "link": "https://github.com/manojlshetty7-bit/graphics_edit",
+      "tech": ["C", "Graphics", "Math Algorithms"]
+    }
+  ],
+  "skills": {
+    "languages": [
+      { "name": "C", "level": "Advanced (Pointers, Memory, CLI Tools)" },
+      { "name": "C++", "level": "Intermediate (DSA, STL, Competitive Coding)" },
+      { "name": "Python", "level": "Intermediate (Automation, Scripting)" },
+      { "name": "JavaScript", "level": "Intermediate (Modern ES6+, DOM, REST APIs)" },
+      { "name": "SQL", "level": "Foundational (Queries, Relational Schemas)" }
+    ],
+    "tools": [
+      "Visual Studio Code",
+      "Git & GitHub",
+      "GitLens",
+      "VS Code Live Share",
+      "MinGW-w64 / GCC",
+      "Node.js",
+      "Python 3",
+      "GitHub Pages"
+    ],
+    "fundamentals": [
+      "Data Structures (Arrays, Linked Lists, Stacks, Queues, Vectors)",
+      "Algorithms (Two Pointers, Sliding Window, Binary Search, Sorting)",
+      "Object-Oriented Programming (OOP)",
+      "Systems Programming Concepts",
+      "Relational Database Design (SQLite)"
+    ]
+  }
+}
